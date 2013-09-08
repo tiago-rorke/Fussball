@@ -5,9 +5,9 @@ A collaboration with Mark Leong.
 
 This was our contribution to the Global Workshop project, developed by Archrival for installation at the 2012 Venice Architecture Biennale.
 
-[More process images on flickr](http://www.flickr.com/photos/26287403@N06/sets/72157635414091902/)
+[More process images on flickr.](http://www.flickr.com/photos/26287403@N06/sets/72157635414091902/)
 
-All design files licensed under the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike License](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
+All design files licensed under the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike License.](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
 
 ![](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
 
