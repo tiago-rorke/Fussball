@@ -1,4 +1,4 @@
-##[11 Piece Concrete/Steel Fussball Team](http://www.tiago.co.nz/fussball)
+##[11 Piece Concrete/Steel Fussball Team](http://www.tiago.co.nz/fussball.html)
 ###[Global Workshop 2012](http://www.archrival.org/global-workshop.html) / [Archrival](http://www.archrival.org/)
 
 A collaboration with Mark Leong.
